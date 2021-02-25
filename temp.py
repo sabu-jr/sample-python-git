@@ -1,4 +1,4 @@
-number=int(input("Enter the number : "))
+number=33
 sums=0
 while(number!=0):
     temp=number%10
